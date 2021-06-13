@@ -2,10 +2,22 @@
 	"name": "midnight-blue",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#102341",
+		"editor.background": "#182944",
 		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#4A8FE7",
-		"sideBarTitle.foreground": "#4a8fe7"
+		"activityBarBadge.background": "#6fa1e2",
+		"sideBarTitle.foreground": "#081f3a",
+		"sideBar.background": "#041427",
+		"icon.foreground": "#fff",
+		"activityBar.activeBackground": "#002136",
+		"activityBar.border": "#002136",
+		"foreground": "#fff",
+		"panel.background": "#05172b",
+		"scrollbarSlider.background": "#0550a5",
+		"scrollbarSlider.activeBackground": "#0550a5",
+		"breadcrumb.background": "#002136",
+		"tab.hoverBackground": "#0550a5",
+		"activityBar.background": "#0c1a2e",
+		"terminal.border": "#182944"
 	},
 	"tokenColors": [
 		{
@@ -22,11 +34,11 @@
 		{
 			"name": "Variables",
 			"scope": [
+				"string constant.other.placeholder",
 				"variable",
-				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#109797"
+				"foreground": "#f7e3e1"
 			}
 		},
 		{
@@ -45,7 +57,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#a1172c"
 			}
 		},
 		{
@@ -56,7 +68,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#0EFBEB"
+				"foreground": "#30b18a"
 			}
 		},
 		{
@@ -70,13 +82,13 @@
 				"punctuation.separator.inheritance.php",
 				"punctuation.definition.tag.html",
 				"punctuation.definition.tag.begin.html",
-				"punctuation.definition.tag.end.html",
 				"punctuation.section.embedded",
 				"keyword.other.template",
-				"keyword.other.substitution"
+				"keyword.other.substitution",
+				"punctuation.definition.tag.end.html"
 			],
 			"settings": {
-				"foreground": "#cec000"
+				"foreground": "#e6d70a"
 			}
 		},
 		{
@@ -87,7 +99,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#705858"
+				"foreground": "#c00a0a"
 			}
 		},
 		{
@@ -100,7 +112,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#14b1e0"
 			}
 		},
 		{
