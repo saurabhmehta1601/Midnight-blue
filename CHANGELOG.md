@@ -1,9 +1,5 @@
 # Change Log
 
-All notable changes to the "midnight-blue" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+## [1.0.0] (14-06-2021)
+### Initial release
+- Dark blue theme for coding mainly created for coding in dark with better focus . 

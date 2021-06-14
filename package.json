@@ -2,7 +2,16 @@
     "name": "midnight-blue",
     "displayName": "Midnight Blue",
     "description": "Dark blue theme extention for vscode .",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "publisher": "saurabhmehta1601",
+    "author": {
+        "name": "Saurabh Mehta"
+    },
+    "license": "MIT",
+    "repository": {
+        "url": "https://github.com/saurabhmehta1601/Midnight-blue.git" ,
+        "type":"git"
+    },
     "engines": {
         "vscode": "^1.57.0"
     },
