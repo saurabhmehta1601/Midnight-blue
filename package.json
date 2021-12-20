@@ -1,30 +1,30 @@
 {
-    "name": "midnight-blue",
-    "displayName": "Midnight Blue",
-    "description": "Dark blue theme extention for vscode .",
-    "version": "1.0.0",
-    "publisher": "saurabhmehta1601",
-    "author": {
-        "name": "Saurabh Mehta"
-    },
-    "license": "MIT",
-    "repository": {
-        "url": "https://github.com/saurabhmehta1601/Midnight-blue.git" ,
-        "type":"git"
-    },
-    "engines": {
-        "vscode": "^1.57.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "midnight-blue",
-                "uiTheme": "vs-dark",
-                "path": "./themes/midnight-blue-color-theme.json"
-            }
-        ]
-    }
+  "name": "midnight-blue",
+  "displayName": "Midnight Blue",
+  "description": "Dark blue theme extention for vscode .",
+  "version": "1.0.0",
+  "publisher": "saurabhmehta",
+  "author": {
+    "name": "Saurabh Mehta"
+  },
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/saurabhmehta1601/Midnight-blue.git",
+    "type": "git"
+  },
+  "engines": {
+    "vscode": "^1.57.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "midnight-blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/midnight-blue-color-theme.json"
+      }
+    ]
+  }
 }
