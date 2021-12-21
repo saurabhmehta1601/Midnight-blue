@@ -1,6 +1,7 @@
 {
   "name": "midnight-blue-vscode-theme",
   "displayName": "Midnight Blue",
+  "icon": "images/icon.png",
   "description": "Dark blue theme extention for vscode .",
   "version": "1.0.0",
   "publisher": "saurabhmehta",
